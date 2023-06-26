@@ -4,6 +4,9 @@
 
 > Nim : G.231.21.0144
 
+![image](https://github.com/Anamkhoirull001/UAS-Praktikum-Komputer-Grafis/assets/110075674/b35908db-eced-402a-8fff-6a9ad40545a8)
+
+
 Buatlah koding python dengan matplotlib atau seaborn, visualisasi data untuk menampilkan :
 
 
