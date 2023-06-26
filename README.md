@@ -11,5 +11,7 @@ Buatlah koding python dengan matplotlib atau seaborn, visualisasi data untuk men
 
 2.   Atribut Stock Name dan Symbol yang memiliki Dividen / Share 5 tertinggi
 
-1.   Atribut Stock Name dan Symbol yang memiliki Market Value 5 tertinggi
-2.   Atribut Stock Name dan Symbol yang memiliki Annual Yield 7 tertinggi
+3.   Atribut Stock Name dan Symbol yang memiliki Market Value 5 tertinggi
+4.   Atribut Stock Name dan Symbol yang memiliki Annual Yield 7 tertinggi
+
+atau bisa langsung kunjungi link https://colab.research.google.com/drive/1EflgHQHIex_EZXI0aZ0yvpnkdlOKc1HX#scrollTo=hEDNdDAfMmkL
