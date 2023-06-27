@@ -17,4 +17,4 @@ Buatlah koding python dengan matplotlib atau seaborn, visualisasi data untuk men
 
   ![image](https://github.com/Anamkhoirull001/UAS-Praktikum-Komputer-Grafis/assets/110075674/b35908db-eced-402a-8fff-6a9ad40545a8)
 
-atau bisa langsung kunjungi link https://colab.research.google.com/drive/1EflgHQHIex_EZXI0aZ0yvpnkdlOKc1HX#scrollTo=hEDNdDAfMmkL
+atau bisa langsung kunjungi [Google Colaboratory](https://colab.research.google.com/drive/1EflgHQHIex_EZXI0aZ0yvpnkdlOKc1HX#scrollTo=hEDNdDAfMmkL)
